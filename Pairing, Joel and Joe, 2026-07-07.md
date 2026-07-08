@@ -20,7 +20,7 @@ A long two-part session (morning and afternoon of the same day) early in Joel's 
 - An agent is a force multiplier you still have to steer. It acts on your behalf on your machine, guarded by version control and your review. Read its diff, don't assume it is right.
 
 # What we worked on
-The feature: let a user deactivate a farm or location so it disappears from the app's main navigation while its data stays in the database and can be reactivated later. Two cases motivate it, both surfaced by [[Meghan Harris|Meg]] while she walked the domain:
+The feature: let a user deactivate a farm or location so it disappears from the app's main navigation while its data stays in the database and can be reactivated later. Two cases motivate it, both surfaced by [[Meg Kretz|Meg]] while she walked the domain:
 - One-off locations. A place used a single time, like an overnight stop on a long haul, that then clutters the navigation forever.
 - Locations no longer in active use whose historical data still matters. Old sources the team may still need to look up even though they are done using them day to day.
 

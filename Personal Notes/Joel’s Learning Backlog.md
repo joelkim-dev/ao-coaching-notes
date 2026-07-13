@@ -16,6 +16,11 @@ kanban-plugin: board
 - [ ] [[TablePlus]]
 - [ ] [[Background Workers]] & [[Background Jobs]]
 - [ ] [[NEON]]
+- [ ] How to write a good story?
+- [ ] [[Gitup]]
+- [ ] How do you know which questions to ask your team, and which to figure out yourself?
+- [ ] [[git submodule]]
+- [ ] What is a .DS_Store file?
 
 
 ## Level 2 (Gist)

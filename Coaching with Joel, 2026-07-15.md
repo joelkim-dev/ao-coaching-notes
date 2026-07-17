@@ -24,7 +24,7 @@ We put your running terms list on screen and sorted it into three buckets.
 - Trivia is fine to study if you feel like it, but it will not hurt you to skip. Git itself as a raw tool, and a couple of minor items, fell here.
 - The pattern to notice: often the concept is critical while the specific tool is not. The database tool matters more than TablePlus, the job-runner idea matters more than Graphile.
 
-On depth, you always have a [[The Value Spectrum|depth ladder]]. You could learn every detail of Node, but that is not critical. Being able to say in a few clear sentences what a thing is and how it works, to a level an expert would sign off on, is both the goal and the way to check yourself. A model is a cheap first check. For anything you want a human read on, Slack Joe or another developer with your current understanding and ask what they think.
+On depth, you always have a depth lever. You could learn every detail of Node, but that is not critical. Being able to say in a few clear sentences what a thing is and how it works, to a level an expert would sign off on, is both the goal and the way to check yourself. A model is a cheap first check. For anything you want a human read on, Slack Joe or another developer with your current understanding and ask what they think.
 
 [[Spaced Repetition|Spaced repetition]] is worth pulling in here. It is most valuable for the client-specific vocabulary you will not hit often enough to remember on your own. Most general terms you will absorb through normal repetition on the project. Save the [[Anki]] deck for the concepts that keep eluding you.
 

@@ -54,7 +54,7 @@ Walking the app against the acceptance criteria surfaced a run of visual issues,
 # Speaking the user's language
 Joel had built a view he called a "map" of the thirteen job types and when they fire. Joe pushed on the word.
 - "You're using software developer language like map. And I'm wondering, will this actually be useful to somebody who's running a dairy?" They landed on framing it as job information instead.
-- Two related acceptance criteria matter here: the view is clearly labeled as information and doesn't claim to show exact timing, and the page doesn't claim to be a completed-job history. That last point lines up with what [[Nick Keuning|Nick]] said. The team mostly wants to see what's failing, not scroll a full history of everything that ran.
+- Two related acceptance criteria matter here: the view is clearly labeled as information and doesn't claim to show exact timing, and the page doesn't claim to be a completed-job history. That last point lines up with what [[Nick Hazekamp|Nick]] said. The team mostly wants to see what's failing, not scroll a full history of everything that ran.
 
 # Planning the "clear failed jobs" story
 Nick asked for a way to clear out old failed jobs, since the dashboard exists mainly to surface what's broken. Joel started planning the story.

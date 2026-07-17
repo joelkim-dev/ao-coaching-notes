@@ -4,12 +4,12 @@ tags:
   - conversation
   - feedback
 ---
-_Conversation with [[Joel Kim|Joel]], [[Meghan Harris|Meg]], and [[Joe Chrysler|Joe]] on July 17, 2026_
+_Conversation with [[Joel Kim|Joel]], [[Meg Kretz|Meg]], and [[Joe Chrysler|Joe]] on July 17, 2026_
 
 This was your first [[Accelerator Feedback|feedback]] session, about two weeks in, with Meg giving the feedback as your delivery lead and Joe facilitating. The through-line was communication. Reach out more, make your work visible, and get comfortable being a confident beginner. Meg also closed with a lot of genuine praise. You gave one piece of feedback back, and it landed well.
 
 # Top takeaways
-- Reach out and ask more. You are a little quiet on the development side. Lean into [[Nick Keuning|Nick]] especially. Unblocking you is part of his job, so you are not a bother.
+- Reach out and ask more. You are a little quiet on the development side. Lean into [[Nick Hazekamp|Nick]] especially. Unblocking you is part of his job, so you are not a bother.
 - When you are uncertain, say so plainly instead of talking around it. "I don't know, let me go find that out" reads as confident. Fumbling for words hides how sharp you actually are.
 - Make your progress visible through the day. Questions, a posted PR, moving a story, a Slack message all count. Rough rule while you find your footing: if nothing visible has happened in the last hour, send some kind of signal.
 - Interrupting a busy person is explicitly fine. Let the more experienced person decide whether it is worth their time. They can always ask you to wait.

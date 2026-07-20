@@ -59,6 +59,23 @@ kanban-plugin: board
 - [ ] SKILL: Using database tools #critical
 - [ ] SKILL: Git GUI #critical
 - [ ] git fetch vs git pull
+- [ ] [[Error Boundary]]
+- [ ] Package Manager
+- [ ] How does node work?
+- [ ] [[Performant Node Package Manager|PNPM]]
+- [ ] [[Performant Node Package Manager|PNPM]] exec
+- [ ] [[Vitest]]
+- [ ] [[Graphile Worker]]
+- [ ] [[TablePlus]]
+- [ ] [[Background Workers]] & [[Background Jobs]]
+- [ ] [[NEON]]
+- [ ] How to write a good story?
+- [ ] [[Gitup]]
+- [ ] How do you know which questions to ask your team, and which to figure out yourself?
+- [ ] [[git submodule]]
+- [ ] What is a .DS_Store file?
+- [ ] SOLID
+- [ ] Jtag
 
 
 ## Level 2 (Gist)
